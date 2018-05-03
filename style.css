@@ -1,0 +1,37 @@
+style.css
+.logotipo{
+		width: 40px;
+		height: auto;
+	}
+	#social{
+		text-align: center;
+		background-color: #A9BEF6;
+		padding: 20px 0;
+	}
+	.titulo-section{
+		font-size: 20pt;
+		font-weight: bold; 
+	}
+	#social a{
+		color: blue;
+		font-size: 10pt;
+		padding-right: 4pt;
+	}
+
+	#social a:hover{
+		color: red;
+		transition: 1s;
+	}
+	#institucional{
+		text-align: left;
+		padding: 60px 0;
+		background-color: #95a5a6;
+	}
+	#institucional h2{
+		color: #273c75;
+	}
+	#produtos{
+		text-align: left;
+		padding: 60px 0;
+		
+	}
